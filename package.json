@@ -1,0 +1,31 @@
+{
+  "name": "add-modal-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dthanos/add-modal-vue.git"
+  },
+  "keywords": [
+    "add",
+    "modal",
+    "vue",
+    "add",
+    "modal"
+  ],
+  "author": "dthanos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dthanos/add-modal-vue/issues"
+  },
+  "homepage": "https://github.com/dthanos/add-modal-vue#readme",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "vite": "^5.4.0"
+  }
+}
